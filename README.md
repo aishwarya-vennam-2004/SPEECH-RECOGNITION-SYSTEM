@@ -43,7 +43,9 @@ UnknownValueError: Triggered when the audio is unclear or unintelligible, result
 
 RequestError: Occurs if there is a problem with the API request (e.g., no internet connection or server issues), displaying an error message with details.
 
-5. Output
+5. Output:
+
+![Image](https://github.com/user-attachments/assets/f192ad4a-0f39-4420-babd-868935d7d52d)
 
 6.If successful, the recognized text is printed as "You said: [text]". This provides immediate feedback, making the script useful for voice-controlled applications, voice assistants, or accessibility tools.
 
@@ -58,3 +60,5 @@ Basic Error Handling: Covers common issues but lacks advanced recovery mechanism
 This script serves as a foundation for more complex voice-interactive systems, such as voice commands, transcription tools, or AI assistants. Further enhancements could include offline recognition (using CMU 
 
 Sphinx) or integrating additional NLP functionalities.
+
+
